@@ -3,8 +3,8 @@ A very lightweight, extremely basic calculator (written in Python) utilizing onl
 
 
 
-#Pre-requisites
+# Pre-requisites
 -Python (must be installed prior to using this program!)
 
 
-How the program works:
+
