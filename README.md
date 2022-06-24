@@ -8,4 +8,7 @@ A very lightweight, extremely basic calculator (written in Python) utilizing onl
 
 
 
+# How it works
 ![alt text](https://github.com/Windows7Pro2009/simple-addition-quadculator/blob/main/Screen%20shot%202022-06-23%20at%2010.53.41%20PM.png)
+
+
